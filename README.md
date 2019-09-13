@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Dad Jokes
+
+A dad jokes web app with rating feature.
 
 ## Available Scripts
 

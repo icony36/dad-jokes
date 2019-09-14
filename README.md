@@ -2,6 +2,8 @@
 
 A dad jokes web app with rating feature.
 
+### Live Demo: https://it-dad-jokes.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
